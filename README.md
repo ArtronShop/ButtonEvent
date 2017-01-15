@@ -18,7 +18,7 @@ and circuit switch support
 ## How to work ?
 
  * Download : https://github.com/ioxhop/ButtonEvent/archive/master.zip
- * Open Arduino IDE, click Sketch > Include Library > Add .ZIP Library than select files and click open
+ * Open Arduino IDE, click Sketch > Include Library > Add .ZIP Library than select file and click open
  * Click Examples > ButtonEvent > basic read code
 
 

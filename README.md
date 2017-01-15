@@ -1,14 +1,14 @@
 # ButtonEvent, What is this ?
 This library you can use switch in pattern press. 
 
-Now, support pattern on 
+Now, pattern support on 
 
  * DOWN (press)
  * UP (release)
  * CLICK (release and press in >50mS and <2000mS)
  * LONG_CLICK (release and press in >2000mS)
 
-and support circuit switch
+and circuit switch support
 
  * PULL_DOWN - resistor connect to GND
  * PULL_UP - resistor connect to VCC
